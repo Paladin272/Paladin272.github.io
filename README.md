@@ -5,7 +5,7 @@ An elegant, responsive donation landing page built with Tailwind CSS to support 
 > This repository hosts the official fundraising campaign page for **Teckie “Paladin” Katulo**, a software engineering student and AI innovator seeking to raise **$26,000** for tuition, accommodation, and professional development. Every contribution helps empower local African tech to go global.
 
 ## 🔗 Live Page
-[Visit the live site](https://Paladin272.github.io/Teckie-Katulo---Educational-fundraiser) *(replace with actual URL after deployment)*
+[Visit the live site](https://Paladin272.github.io/Teckie-Katulo---Educational-fundraiser) 
 
 ## 📂 Contents
 - `index.html` – The full responsive landing page
